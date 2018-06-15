@@ -13,7 +13,7 @@
 DIR="/home/samp03" 			# SA-MP Server directory
 EXEC="samp03svr"			# SA-MP Server executable
 SCREENNAME="samp" 			# Screen name
-DESC="SA-MP Test Server"	# Description
+DESC="DOR SERVER"	# Description
 
 # Functions
 function startServer {
